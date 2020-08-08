@@ -59,6 +59,6 @@
 * [Elasticsearch from the bottom up](https://www.youtube.com/watch?v=PpX7J-G2PEo)
 * [Index building](https://www.cs.princeton.edu/courses/archive/spring16/cos435/Notes/indexBuilding_topost.pdf)
 
-## Funy
+## Funny
 
 * https://www.gwern.net/Tanks
