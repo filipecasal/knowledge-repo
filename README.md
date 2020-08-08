@@ -30,13 +30,10 @@
 * [DiceTechJobs/RelevancyTuning](https://github.com/DiceTechJobs/RelevancyTuning)
 * [Evolving the Optimal Relevancy Scoring Model at Dice.com - Simon Hughes, Dice.com](https://www.youtube.com/watch?v=z4c1xU7arhc&t=2s)
 * [fastai/fastpages](https://github.com/fastai/fastpages)
-
-
 * [allegro/allRank](https://github.com/allegro/allRank)
 * [Optimisation Methods for Ranking Functions with Multiple Parameters](https://sci-hub.st/10.1145/1183614.1183698)
 * [What is Neural Search, and Why Should I Care?](https://towardsdatascience.com/what-is-neural-search-and-why-should-i-care-4a6cee6b2249)
 * [nboost](https://github.com/koursaros-ai/nboost)
-
 * [Order from Chaos: Understanding Search Queries through Vectors](https://medium.com/coursera-engineering/query2vec-2f6070083bda)
 * [Categorizing learning content](https://medium.com/coursera-engineering/data-driven-content-categorization-89de0104bcbd)
 
