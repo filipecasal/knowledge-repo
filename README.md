@@ -6,7 +6,8 @@
 - [Awesome lists](#awesome-lists)
 - [Mix](#mix)
 - [Time Series](#time-series)
-- [Elasticsearch/Solr](#elasticsearch/solr)
+- [Elasticsearch Solr](#elasticsearch-solr)
+- [Funny](#funny)
 
 ## Awesome lists
 
@@ -36,6 +37,12 @@
 * [nboost](https://github.com/koursaros-ai/nboost)
 * [Order from Chaos: Understanding Search Queries through Vectors](https://medium.com/coursera-engineering/query2vec-2f6070083bda)
 * [Categorizing learning content](https://medium.com/coursera-engineering/data-driven-content-categorization-89de0104bcbd)
+* [How our Skills Graph is helping learners find the right content to reach their goals](https://medium.com/coursera-engineering/courseras-skills-graph-helps-learners-find-the-right-content-to-reach-their-goals-b10418a05214)
+* [nboost](https://github.com/koursaros-ai/nboost)
+* [dolt](https://github.com/liquidata-inc/dolt)
+* [quantumblacklabs/kedro](https://github.com/quantumblacklabs/kedro)
+* [Introduction to information retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
+* [Information retrieval course - Princeton](https://www.cs.princeton.edu/courses/archive/spring16/cos435/)
 
 
 ## Time Series
@@ -45,4 +52,13 @@
 * [WTTE-RNN - Less hacky churn prediction](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/)
 
 
-## Elasticsearch/Solr
+## Elasticsearch Solr
+
+* [What is in a Lucene index? Adrien Grand, Software Engineer, Elasticsearch](https://www.youtube.com/watch?v=T5RmMNDR5XI)
+* [The Art of Searching](https://www.youtube.com/watch?v=yst6VQ7Lwpo)
+* [Elasticsearch from the bottom up](https://www.youtube.com/watch?v=PpX7J-G2PEo)
+* [Index building](https://www.cs.princeton.edu/courses/archive/spring16/cos435/Notes/indexBuilding_topost.pdf)
+
+## Funy
+
+* https://www.gwern.net/Tanks
