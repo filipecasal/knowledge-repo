@@ -1,6 +1,8 @@
 # knowledge-repo
 
-...
+## What is it about?
+
+Data Science, Machine Learning, Information Retrieval, Search, Recommendation, Personalization, Text Mining, Image Similarity and so on... every day stuff that we learn
 
 ## Topics
 - [Awesome lists](#awesome-lists)
