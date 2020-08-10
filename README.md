@@ -99,3 +99,18 @@ Data Science, Machine Learning, Information Retrieval, Search, Recommendation, P
 - great_expectations
 - pm4py
 - huggingface/transformers
+
+## Tech blogs
+
+- https://machinelearningmastery.com/blog/
+- https://research.netflix.com/research-area/
+- https://labs.spotify.com/
+- https://medium.com/@Pinterest_Engineering
+- http://www.fast.ai/
+- https://blog.ethanrosenthal.com/
+- http://nlpprogress.com/
+- https://code.fb.com/ml-applications/
+- https://code.fb.com/category/ai-research/
+- https://booking.ai/
+- https://www.ailab.microsoft.com/
+- https://instagram-engineering.com/tagged/machine-learning
