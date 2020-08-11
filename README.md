@@ -9,6 +9,7 @@ Data Science, Machine Learning, Information Retrieval, Search, Recommendation, P
 - [Mix](#mix)
 - [Time Series](#time-series)
 - [Elasticsearch Solr](#elasticsearch-solr)
+- [RecSys](#recsys)
 - [Funny](#funny)
 
 ## Awesome lists
@@ -61,6 +62,10 @@ Data Science, Machine Learning, Information Retrieval, Search, Recommendation, P
 * [The Art of Searching](https://www.youtube.com/watch?v=yst6VQ7Lwpo)
 * [Elasticsearch from the bottom up](https://www.youtube.com/watch?v=PpX7J-G2PEo)
 * [Index building](https://www.cs.princeton.edu/courses/archive/spring16/cos435/Notes/indexBuilding_topost.pdf)
+
+## RecSys
+
+* https://www.ethanrosenthal.com/blog/
 
 ## Funny
 
