@@ -5,15 +5,22 @@
 Data Science, Machine Learning, Information Retrieval, Search, Recommendation, Personalization, Text Mining, Image Similarity and so on... every day stuff that we learn
 
 ## Topics
-- [Awesome lists](#awesome-lists)
-- [Mix](#mix)
-- [Time Series](#time-series)
-- [Elasticsearch Solr](#elasticsearch-solr)
-- [RecSys](#recsys)
-- [Funny](#funny)
+- [knowledge-repo](#knowledge-repo)
+  - [What is it about?](#what-is-it-about)
+  - [Topics](#topics)
+  - [Awesome lists](#awesome-lists)
+  - [Mix](#mix)
+  - [Time Series](#time-series)
+  - [Elasticsearch Solr](#elasticsearch-solr)
+  - [Search](#search)
+  - [RecSys](#recsys)
+  - [Funny](#funny)
+  - [Data Science libs](#data-science-libs)
+  - [Tech blogs](#tech-blogs)
 
 ## Awesome lists
-
+* [applied-ml-search](https://github.com/eugeneyan/applied-ml#search--ranking)
+* [applied-ml](https://github.com/eugeneyan/applied-ml)
 * [awesome-search](https://github.com/frutik/awesome-search)
 * [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval)
 * [awesome-search-relevance](https://github.com/o19s/awesome-search-relevance)
@@ -63,8 +70,10 @@ Data Science, Machine Learning, Information Retrieval, Search, Recommendation, P
 * [Elasticsearch from the bottom up](https://www.youtube.com/watch?v=PpX7J-G2PEo)
 * [Index building](https://www.cs.princeton.edu/courses/archive/spring16/cos435/Notes/indexBuilding_topost.pdf)
 
-## RecSys
+## Search
+* http://www.kmwllc.com/index.php/2020/03/20/understanding-tf-idf-and-bm25/
 
+## RecSys
 * https://www.ethanrosenthal.com/blog/
 
 ## Funny
