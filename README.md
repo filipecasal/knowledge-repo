@@ -19,6 +19,7 @@ Data Science, Machine Learning, Information Retrieval, Search, Recommendation, P
   - [Tech blogs](#tech-blogs)
 
 ## Awesome lists
+https://github.com/papers-we-love/papers-we-love
 * [applied-ml-search](https://github.com/eugeneyan/applied-ml#search--ranking)
 * [applied-ml](https://github.com/eugeneyan/applied-ml)
 * [awesome-search](https://github.com/frutik/awesome-search)
