@@ -128,3 +128,4 @@ Data Science, Machine Learning, Information Retrieval, Search, Recommendation, P
 - https://booking.ai/
 - https://www.ailab.microsoft.com/
 - https://instagram-engineering.com/tagged/machine-learning
+- https://codeascraft.com/category/search/
