@@ -16,17 +16,18 @@ WIP
   - [Funny](#funny)
 
 ## Awesome lists
-https://github.com/papers-we-love/papers-we-love
-* [applied-ml-search](https://github.com/eugeneyan/applied-ml#search--ranking)
-* [applied-ml](https://github.com/eugeneyan/applied-ml)
-* [awesome-search](https://github.com/frutik/awesome-search)
-* [awesome-information-retrieval](https://github.com/harpribot/awesome-information-retrieval)
-* [awesome-search-relevance](https://github.com/o19s/awesome-search-relevance)
-* [awesome-RecSys-papers](https://github.com/YuyangZhangFTD/awesome-RecSys-papers)
-* [awesome-RecSys](https://github.com/jihoo-kim/awesome-RecSys)
+* [GitHub - papers-we-love/papers-we-love: Papers from the computer science community to read and discuss.](https://github.com/papers-we-love/papers-we-love)
+* [GitHub - eugeneyan/applied-ml/search-ranking: 📚 Papers by organizations sharing their work on applied data science & machine learning.](https://github.com/eugeneyan/applied-ml#search--ranking)
+* [GitHub - eugeneyan/applied-ml: 📚 Papers by organizations sharing their work on applied data science & machine learning.](https://github.com/eugeneyan/applied-ml)
+* [GitHub - frutik/awesome-search: it's all about search and its awesomeness](https://github.com/frutik/awesome-search)
+* [GitHub - harpribot/awesome-information-retrieval: A curated list of awesome information retrieval resources](https://github.com/harpribot/awesome-information-retrieval)
+* [GitHub - o19s/awesome-search-relevance: Tools and other things for people who work on search relevance & information retrieval](https://github.com/o19s/awesome-search-relevance)
+* [GitHub - YuyangZhangFTD/awesome-RecSys-papers: The awesome and classic papers in recommendation system!!! Good luck to every RecSys-learner!](https://github.com/YuyangZhangFTD/awesome-RecSys-papers)
+* [GitHub - jihoo-kim/awesome-RecSys: A curated list of awesome Recommender System (Books, Conferences, Researchers, Papers, Github Repositories, Useful Sites, Youtube Videos)](https://github.com/jihoo-kim/awesome-RecSys)
 
 ## Mix
-
+* [Explaining Learning to Rank Models with Tree Shap - Sease](https://sease.io/2020/07/explaining-learning-to-rank-models-with-tree-shap.html)
+* [Google AI Blog: TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank](https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html#:~:text=The%20objective%20of%20learning%2Dto,as%20described%20in%20prior%20work.)
 * [Niklas Schmidinger: The Sorcerer's Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/)
 * [Intuitive explanation of Learning to Rank (and RankNet, LambdaRank and LambdaMART)](https://medium.com/@nikhilbd/intuitive-explanation-of-learning-to-rank-and-ranknet-lambdarank-and-lambdamart-fe1e17fac418)
 * [The ABCs of Learning to Rank](https://lucidworks.com/post/abcs-learning-to-rank/)
@@ -57,23 +58,25 @@ https://github.com/papers-we-love/papers-we-love
 
 ## Time Series
 
-* [Featuretools/predict-customer-churn](https://github.com/Featuretools/predict-customer-churn)
-* [tsfresh](https://tsfresh.readthedocs.io/en/latest/index.html)
-* [WTTE-RNN - Less hacky churn prediction](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling/)
+* [GitHub - Featuretools/predict-customer-churn: A general-purpose framework for solving problems with machine learning applied to predicting customer churn](https://github.com/Featuretools/predict-customer-churn)
+* [tsfresh — tsfresh 0.17.0 documentation](https://tsfresh.readthedocs.io/en/latest/index.html)
+* [WTTE-RNN - Less hacky churn prediction · Focus on the objective](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling)
 
 
 ## Elasticsearch Solr
 
-* [What is in a Lucene index? Adrien Grand, Software Engineer, Elasticsearch](https://www.youtube.com/watch?v=T5RmMNDR5XI)
-* [The Art of Searching](https://www.youtube.com/watch?v=yst6VQ7Lwpo)
-* [Elasticsearch from the bottom up](https://www.youtube.com/watch?v=PpX7J-G2PEo)
-* [Index building](https://www.cs.princeton.edu/courses/archive/spring16/cos435/Notes/indexBuilding_topost.pdf)
+* [What is in a Lucene index? Adrien Grand, Software Engineer, Elasticsearch - YouTube](https://www.youtube.com/watch?v=T5RmMNDR5XI)
+* [The Art of Searching - YouTube](https://www.youtube.com/watch?v=yst6VQ7Lwpo)
+* [Elasticsearch from the bottom up - YouTube](https://www.youtube.com/watch?v=PpX7J-G2PEo)
+* [Index building]([](https://www.cs.princeton.edu/courses/archive/spring16/cos435/Notes/indexBuilding_topost.pdf))
+* [Exploring Solr Internals : The Lucene Inverted Index - Sease](https://sease.io/2015/07/exploring-solr-internals-lucene.html)
+* [How does a search engine work? An educational trek through a Lucene Postings Format - OpenSource Connections](https://opensourceconnections.com/blog/2013/05/20/how-does-a-search-engine-work-an-educational-trek-through-a-lucene-postings-format)
 
 ## Search
-* http://www.kmwllc.com/index.php/2020/03/20/understanding-tf-idf-and-bm25/
+* [Understanding TF-IDF and BM25 – KMW Technology](http://www.kmwllc.com/index.php/2020/03/20/understanding-tf-idf-and-bm25)
 
 ## RecSys
-* https://www.ethanrosenthal.com/blog/
+* [Blogs | Ethan Rosenthal](https://www.ethanrosenthal.com/blog)
 
 ## Funny
-* https://www.gwern.net/Tanks
+* [The Neural Net Tank Urban Legend · Gwern.net](https://www.gwern.net/Tanks)
