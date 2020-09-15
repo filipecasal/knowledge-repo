@@ -1,0 +1,15 @@
+## Tech blogs
+
+* [Blog](https://machinelearningmastery.com/blog/)
+* [Netflix Research](https://research.netflix.com/research-area)
+* [ Spotify Engineering](https://labs.spotify.com/)
+* [Pinterest Engineering – Medium](https://medium.com/@Pinterest_Engineering)
+* [fast.ai · Making neural nets uncool again](http://www.fast.ai/)
+* [Ethan Rosenthal](https://blog.ethanrosenthal.com/)
+* [Tracking Progress in Natural Language Processing | NLP-progress](http://nlpprogress.com/)
+* [ML Applications - Facebook Engineering](https://code.fb.com/ml-applications/)
+* [AI Research - Facebook Engineering](https://code.fb.com/category/ai-research)
+* [Booking AI](https://booking.ai)
+* [AI Lab - Microsoft](https://www.ailab.microsoft.com/)
+* [Instagram - ML](https://instagram-engineering.com/tagged/machine-learning)
+* [ Etsy - Code as Craft](https://codeascraft.com/category/search/)

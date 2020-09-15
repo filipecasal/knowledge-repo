@@ -1,8 +1,7 @@
 # knowledge-repo
 
 ## What is it about?
-
-Data Science, Machine Learning, Information Retrieval, Search, Recommendation, Personalization, Text Mining, Image Similarity and so on... every day stuff that we learn
+WIP
 
 ## Topics
 - [knowledge-repo](#knowledge-repo)
@@ -15,8 +14,6 @@ Data Science, Machine Learning, Information Retrieval, Search, Recommendation, P
   - [Search](#search)
   - [RecSys](#recsys)
   - [Funny](#funny)
-  - [Data Science libs](#data-science-libs)
-  - [Tech blogs](#tech-blogs)
 
 ## Awesome lists
 https://github.com/papers-we-love/papers-we-love
@@ -30,6 +27,7 @@ https://github.com/papers-we-love/papers-we-love
 
 ## Mix
 
+* [Niklas Schmidinger: The Sorcerer's Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/)
 * [Intuitive explanation of Learning to Rank (and RankNet, LambdaRank and LambdaMART)](https://medium.com/@nikhilbd/intuitive-explanation-of-learning-to-rank-and-ranknet-lambdarank-and-lambdamart-fe1e17fac418)
 * [The ABCs of Learning to Rank](https://lucidworks.com/post/abcs-learning-to-rank/)
 * [Learning to Rank Explained (with Code)](https://mlexplained.com/2019/05/27/learning-to-rank-explained-with-code/)
@@ -78,55 +76,4 @@ https://github.com/papers-we-love/papers-we-love
 * https://www.ethanrosenthal.com/blog/
 
 ## Funny
-
 * https://www.gwern.net/Tanks
-
-## Data Science libs
-
-- sweetviz
-- dvc
-- imbalanced-learn
-- texthero
-- flashtext
-- fuzzywuzzy
-- pyflux
-- dash
-- dask
-- ray
-- modin
-- statsmodels
-- gleam
-- plotly
-- shap
-- pandas-ml
-- category-encoders
-- feature-engine
-- feature-tools
-- mlflow
-- surprise
-- fb bootstrap
-- prophet
-- numerize
-- dateparser
-- missingno
-- pycm
-- pandas-profilling
-- great_expectations
-- pm4py
-- huggingface/transformers
-
-## Tech blogs
-
-- https://machinelearningmastery.com/blog/
-- https://research.netflix.com/research-area/
-- https://labs.spotify.com/
-- https://medium.com/@Pinterest_Engineering
-- http://www.fast.ai/
-- https://blog.ethanrosenthal.com/
-- http://nlpprogress.com/
-- https://code.fb.com/ml-applications/
-- https://code.fb.com/category/ai-research/
-- https://booking.ai/
-- https://www.ailab.microsoft.com/
-- https://instagram-engineering.com/tagged/machine-learning
-- https://codeascraft.com/category/search/
