@@ -8,8 +8,8 @@ WIP
 
 ## Mix
 
-* https://sirupsen.com/adjacent-possible/?utm_source=sirupsen&utm_medium=email
-* https://github.com/foambubble/foam-template
-* https://sirupsen.com/
-* https://sirupsen.com/read/
-* https://superorganizers.substack.com/p/how-to-build-a-learning-machine?utm_source=sirupsen&utm_medium=email
+* [Simon Eskildsen - Sirupsen - Adjacent Possible: Model for Peeking into the Future](https://sirupsen.com/adjacent-possible)
+* [GitHub - foambubble/foam-template: Foam workpace template](https://github.com/foambubble/foam-template)
+* [Simon Eskildsen - Sirupsen](https://sirupsen.com)
+* [Simon Eskildsen - Sirupsen - How I Read](https://sirupsen.com/read)
+* [How to Make Yourself Into a Learning Machine - Superorganizers](https://superorganizers.substack.com/p/how-to-build-a-learning-machine)

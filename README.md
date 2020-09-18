@@ -26,6 +26,8 @@ WIP
 * [GitHub - jihoo-kim/awesome-RecSys: A curated list of awesome Recommender System (Books, Conferences, Researchers, Papers, Github Repositories, Useful Sites, Youtube Videos)](https://github.com/jihoo-kim/awesome-RecSys)
 
 ## Mix
+
+* [Text REtrieval Conference (TREC) Home Page](https://trec.nist.gov/)
 * [Explaining Learning to Rank Models with Tree Shap - Sease](https://sease.io/2020/07/explaining-learning-to-rank-models-with-tree-shap.html)
 * [Google AI Blog: TF-Ranking: A Scalable TensorFlow Library for Learning-to-Rank](https://ai.googleblog.com/2018/12/tf-ranking-scalable-tensorflow-library.html#:~:text=The%20objective%20of%20learning%2Dto,as%20described%20in%20prior%20work.)
 * [Niklas Schmidinger: The Sorcerer's Apprentice Guide to Training LSTMs](https://www.niklasschmidinger.com/posts/2020-09-09-lstm-tricks/)
