@@ -12,6 +12,7 @@ WIP
   - [Time Series](#time-series)
   - [Elasticsearch Solr](#elasticsearch-solr)
   - [Search](#search)
+    - [Online evaluation](#online-evaluation)
   - [RecSys](#recsys)
   - [Funny](#funny)
 
@@ -26,6 +27,7 @@ WIP
 * [GitHub - jihoo-kim/awesome-RecSys: A curated list of awesome Recommender System (Books, Conferences, Researchers, Papers, Github Repositories, Useful Sites, Youtube Videos)](https://github.com/jihoo-kim/awesome-RecSys)
 
 ## Mix
+* [Tutorial on metrics of user engagement -- Applications to Search & E-…](https://pt.slideshare.net/mounialalmas/tutorial-on-metrics-of-user-engagement-applications-to-search-e-commerce)
 * [Challenges and Research Opportunities in eCommerce Search and Recommendations](http://sigir.org/wp-content/uploads/2020/06/p04.pdf)
   *  Datasets for eCommerce research
 * [Text REtrieval Conference (TREC) Home Page](https://trec.nist.gov/)
@@ -64,6 +66,7 @@ WIP
 * [GitHub - Featuretools/predict-customer-churn: A general-purpose framework for solving problems with machine learning applied to predicting customer churn](https://github.com/Featuretools/predict-customer-churn)
 * [tsfresh — tsfresh 0.17.0 documentation](https://tsfresh.readthedocs.io/en/latest/index.html)
 * [WTTE-RNN - Less hacky churn prediction · Focus on the objective](https://ragulpr.github.io/2016/12/22/WTTE-RNN-Hackless-churn-modeling)
+* [GitHub - alan-turing-institute/sktime: A unified toolbox for machine learning with time series](https://github.com/alan-turing-institute/sktime)
 
 
 ## Elasticsearch Solr
@@ -78,8 +81,14 @@ WIP
 ## Search
 * [Understanding TF-IDF and BM25 – KMW Technology](http://www.kmwllc.com/index.php/2020/03/20/understanding-tf-idf-and-bm25)
 
+### Online evaluation
+* [Large-Scale Validation and Analysis of Interleaved Search Evaluation](https://www.cs.cornell.edu/people/tj/publications/chapelle_etal_12a.pdf)
+
 ## RecSys
 * [Blogs | Ethan Rosenthal](https://www.ethanrosenthal.com/blog)
+* [GitHub - tensorflow/recommenders: TensorFlow Recommenders is a library for building recommender system models using TensorFlow.](https://github.com/tensorflow/recommenders)
+* [GitHub - microsoft/recommenders: Best Practices on Recommendation Systems](https://github.com/microsoft/recommenders)
+* [PinSage: A new graph convolutional neural network for web-scale recommender systems | by Pinterest Engineering | Pinterest Engineering Blog | Medium](https://medium.com/pinterest-engineering/pinsage-a-new-graph-convolutional-neural-network-for-web-scale-recommender-systems-88795a107f48)
 
 ## Funny
 * [The Neural Net Tank Urban Legend · Gwern.net](https://www.gwern.net/Tanks)
