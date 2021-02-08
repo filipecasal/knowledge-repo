@@ -14,6 +14,9 @@ WIP
   - [Search](#search)
     - [Online evaluation](#online-evaluation)
     - [Facets](#facets)
+    - [Blogs](#blogs)
+    - [Books](#books)
+    - [Meetups](#meetups)
   - [RecSys](#recsys)
   - [Funny](#funny)
 
@@ -82,6 +85,23 @@ WIP
 ## Search
 * [Understanding TF-IDF and BM25 – KMW Technology](http://www.kmwllc.com/index.php/2020/03/20/understanding-tf-idf-and-bm25)
 
+### ANN
+* https://blog.vespa.ai/approximate-nearest-neighbor-search-in-vespa-part-1/
+* https://github.com/google-research/google-research/tree/master/scann
+
+### Blogs
+* https://jamesrubinstein.medium.com/
+* https://dtunkelang.medium.com/
+* https://opensourceconnections.com/blog/
+* http://www.kmwllc.com/index.php/blog/
+
+### Books:
+* https://www.manning.com/books/relevant-search
+
+### Meetups:
+* https://www.meetup.com/Haystack-Search-Relevance-Online/
+* https://www.meetup.com/London-Information-Retrieval-Meetup-Group/
+
 ### Online evaluation
 * [Large-Scale Validation and Analysis of Interleaved Search Evaluation](https://www.cs.cornell.edu/people/tj/publications/chapelle_etal_12a.pdf)
 
@@ -97,3 +117,5 @@ WIP
 
 ## Funny
 * [The Neural Net Tank Urban Legend · Gwern.net](https://www.gwern.net/Tanks)
+
+
