@@ -13,6 +13,7 @@ WIP
   - [Elasticsearch Solr](#elasticsearch-solr)
   - [Search](#search)
     - [Online evaluation](#online-evaluation)
+    - [Facets](#facets)
   - [RecSys](#recsys)
   - [Funny](#funny)
 
@@ -83,6 +84,10 @@ WIP
 
 ### Online evaluation
 * [Large-Scale Validation and Analysis of Interleaved Search Evaluation](https://www.cs.cornell.edu/people/tj/publications/chapelle_etal_12a.pdf)
+
+### Facets
+* http://brunozrk.github.io/building-faceted-search-with-elasticsearch-for-e-commerce-part-1/
+* https://codeburst.io/elasticsearch-by-example-part-5-6495f69f3797
 
 ## RecSys
 * [Blogs | Ethan Rosenthal](https://www.ethanrosenthal.com/blog)
