@@ -31,6 +31,7 @@ WIP
 * [GitHub - jihoo-kim/awesome-RecSys: A curated list of awesome Recommender System (Books, Conferences, Researchers, Papers, Github Repositories, Useful Sites, Youtube Videos)](https://github.com/jihoo-kim/awesome-RecSys)
 
 ## Mix
+* [On-Site Search Design Patterns for E-Commerce: Schema Structure, Data Driven Ranking & More](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/#indexing-text)
 * [Tutorial on metrics of user engagement -- Applications to Search & E-…](https://pt.slideshare.net/mounialalmas/tutorial-on-metrics-of-user-engagement-applications-to-search-e-commerce)
 * [Challenges and Research Opportunities in eCommerce Search and Recommendations](http://sigir.org/wp-content/uploads/2020/06/p04.pdf)
   *  Datasets for eCommerce research
