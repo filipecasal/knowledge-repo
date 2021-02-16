@@ -107,6 +107,8 @@ WIP
 * [Large-Scale Validation and Analysis of Interleaved Search Evaluation](https://www.cs.cornell.edu/people/tj/publications/chapelle_etal_12a.pdf)
 
 ### Facets
+* https://codeburst.io/elasticsearch-by-example-part-1-a4a38cd97f55
+* https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/#generic-faceted-search
 * http://brunozrk.github.io/building-faceted-search-with-elasticsearch-for-e-commerce-part-1/
 * https://codeburst.io/elasticsearch-by-example-part-5-6495f69f3797
 
