@@ -40,6 +40,8 @@ WIP
 
 * https://blog.searchhub.io/my-journey-building-elasticsearch-for-retail
 
+* https://medium.com/empathyco/the-influence-of-tf-idf-algorithms-in-ecommerce-search-e7cb9ab8e662
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 * [On-Site Search Design Patterns for E-Commerce: Schema Structure, Data Driven Ranking & More](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/#indexing-text)
