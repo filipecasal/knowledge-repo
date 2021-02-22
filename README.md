@@ -114,6 +114,7 @@ WIP
 * http://www.kmwllc.com/index.php/blog/
 
 ### Books:
+* https://www.manning.com/books/ai-powered-search?a_aid=12345&a_bid=e47ada24
 * https://www.manning.com/books/relevant-search
 
 ### Meetups:
