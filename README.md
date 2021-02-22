@@ -44,6 +44,8 @@ WIP
 
 * https://softwaredoug.com/blog/2021/02/21/what-is-a-judgment-list.html
 
+* https://opensourceconnections.com/blog/2013/10/14/what-is-test-driven-search-relevancy/
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 * [On-Site Search Design Patterns for E-Commerce: Schema Structure, Data Driven Ranking & More](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/#indexing-text)
