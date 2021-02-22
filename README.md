@@ -42,6 +42,8 @@ WIP
 
 * https://medium.com/empathyco/the-influence-of-tf-idf-algorithms-in-ecommerce-search-e7cb9ab8e662
 
+* https://softwaredoug.com/blog/2021/02/21/what-is-a-judgment-list.html
+
 ------------------------------------------------------------------------------------------------------------------------------------
 
 * [On-Site Search Design Patterns for E-Commerce: Schema Structure, Data Driven Ranking & More](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/#indexing-text)
