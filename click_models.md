@@ -39,6 +39,7 @@ WIP
 
 
 ## Mix
+* https://arxiv.org/pdf/2102.07098.pdf
 * http://www.dcs.gla.ac.uk/~craigm/publications/macdonald12inrt_ltr.pdf
 * https://medium.com/adobetech/evaluating-addressing-position-bias-in-adobe-stock-search-9807b11ee268
 * https://arxiv.org/pdf/1608.04468.pdf
